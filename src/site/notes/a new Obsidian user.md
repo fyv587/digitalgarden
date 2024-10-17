@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/a new Obsidian user/","tags":["gardenEntry"]}
 ---
 
-
 # 这是我的第一篇测试笔记，此github库存放我的学习笔记
 
 
